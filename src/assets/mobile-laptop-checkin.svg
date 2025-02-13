@@ -1,0 +1,19 @@
+<svg width="165" height="160" viewBox="0 0 165 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="82.5" cy="80" rx="82.5" ry="80" fill="url(#paint0_radial_12_79)"/>
+<path d="M92.3556 101.191V65.5993C92.3556 63.1466 94.3439 61.1583 96.7965 61.1583H122.241C124.693 61.1583 126.681 63.1466 126.681 65.5993V117.388C126.681 119.841 124.693 121.829 122.241 121.829H96.7967C94.344 121.829 92.3558 119.841 92.3558 117.388V107.344" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="101.991" cy="70.8657" r="1.31836" fill="white"/>
+<path d="M121.828 74.3888V66.9022C121.828 66.4105 121.429 66.012 120.938 66.012H98.0996C97.6079 66.012 97.2094 66.4105 97.2094 66.9022V116.085C97.2094 116.577 97.6079 116.975 98.0996 116.975H120.938C121.429 116.975 121.828 116.577 121.828 116.085V80.5415" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108.132 88.2691L105.315 85.4516L101.883 88.8836L108.132 95.133L117.154 86.1108L113.722 82.6789L108.132 88.2691Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.9066 62.853L69.0892 60.0356L65.6573 63.4675L71.9066 69.7169L80.9286 60.6948L77.4967 57.2628L71.9066 62.853Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M104.841 112.12H114.548" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M59.6819 77.9553H92.3556" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M97.5605 61.1583V49.0245H49.0254V77.9553H53.5292" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M102.414 61.1583V46.8378C102.414 45.3649 101.22 44.171 99.7472 44.171H46.8386C45.3658 44.171 44.1718 45.3649 44.1718 46.8378V82.8088" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92.3556 82.8088H80.5732V83.7332C80.5732 84.5629 79.9004 85.2356 79.0708 85.2356H67.5151C66.6854 85.2356 66.0127 84.5629 66.0127 83.7332V82.8088H39.5087C39.4036 82.8088 39.3184 82.894 39.3184 82.9991V86.7109C39.3184 88.6818 40.916 90.2795 42.8869 90.2795H92.3556" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_radial_12_79" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(83 65) rotate(91.8087) scale(95.0474 98.0176)">
+<stop stop-color="#6A80A9"/>
+<stop offset="1" stop-color="#39465B"/>
+</radialGradient>
+</defs>
+</svg>

@@ -1,0 +1,140 @@
+$font-color: #263238;
+
+.banner_section {
+  background-image: url(../src/assets/banner-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 18px 18px 0 0;
+  padding: 150px 0 220px;
+  h1 {
+    color: $font-color;
+    text-shadow: 0px 2px 3px #fff;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 75px;
+    text-transform: capitalize;
+  }
+  p {
+    color: $font-color;
+    text-shadow: 0px 3px 7px #fff;
+    font-size: 20px;
+    line-height: 34px;
+  }
+}
+.usp_info {
+  border-radius: 0px 0px 12px 12px;
+  background: #4b5d7b;
+  .usp_box {
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    margin: 15px;
+    max-width: 180px;
+    margin-top: -90px;
+    transition: 0.5s;
+    p {
+      color: #314455;
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 22px;
+      margin: 15px 0px 0px 0px;
+    }
+    &:hover {
+      background: #5b6e91;
+      p {
+        color: #fff;
+      }
+    }
+  }
+}
+.sign_up_sec {
+  // background: url(../src/assets/sign);
+  background-repeat: no-repeat;
+  background-position: 0px 75px;
+
+  h2 {
+    color: #2f3944;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 52px;
+    text-transform: capitalize;
+
+    span {
+      color: #5b6e91;
+      display: block;
+      font-size: 40px;
+    }
+  }
+  .info_box {
+    width: 20%;
+    padding: 0 20px;
+
+    p {
+      color: rgb(0 0 0 / 70%);
+      font-weight: 600;
+      margin-top: 18px;
+    }
+  }
+}
+
+.click_box {
+  display: flex;
+  text-align: left;
+  align-items: flex-start;
+
+  img {
+    width: 20% !important;
+    margin-right: 20px;
+  }
+  div {
+    width: 80%;
+    h5 {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 36px;
+      /* 36.48px */
+      color: #fff;
+    }
+    p {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+}
+.one_click_sec {
+  background-image: url(../src/assets/one-click-three-options.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 12px;
+  h2 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: capitalize;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    color: #fff;
+  }
+}
+.have_ques {
+  h2 {
+    color: #314455;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: capitalize;
+  }
+  p {
+    color: #314455;
+    margin: 10px 0px 40px 0px;
+  }
+}
