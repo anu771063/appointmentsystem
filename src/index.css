@@ -1,0 +1,123 @@
+:root{
+  --main-font: "Outfit", serif !important;
+  --font-18:18px;
+}
+body {
+  font-family: var(--main-font)
+}
+.font18 {
+  font-size: var(--font-18);
+}
+.navbar-nav .nav-link.active {
+  -webkit-text-stroke: 1px #4B5D7B;
+  text-decoration: underline;
+}
+.navbar-nav {
+  gap: 40px;
+}
+.navbar-nav li a {
+  color: rgb(0 0 0 / 70%);
+}
+.navbar-nav .nav-link.active {
+  -webkit-text-stroke: 1px #4B5D7B;
+}
+.navbar-nav .nav-link:hover {
+  -webkit-text-stroke: 1px #4B5D7B;
+}
+.side_spacing {
+  margin: 0 16px !important;
+}
+
+a.blue_btn {
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 40px;
+  background: #404F6D;
+  color: #fff;
+  padding: 13px 68px;
+  border: 1px solid #404F6D;
+  transition: 0.5s;
+}
+
+a.blue_btn:hover {
+  color: #404F6D;
+  background: #fff;
+}
+.light_btn {
+  color: #5B6E91;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 40px;
+  border: 1px solid #4B5D7B;
+  padding: 14px 42px;
+  display: inline-block;
+  transition: 0.5s;
+}
+
+.light_btn:hover {
+  background: #4B5D7B;
+  color: #fff;
+}
+.carousel-control-next-icon  ,
+.carousel-control-prev-icon {
+  right: 35px !important;
+  left: unset !important;
+  opacity: 1 !important;
+  top: 210px !important;
+  z-index: 999;
+  background-color: #4B5D7B;
+  border-radius: 50%;
+  color: #fff !important;
+  background-size: 18px;
+  transform: rotateZ(90deg);
+  height: 40px;
+  width: 40px;
+} 
+a.carousel-control-prev:after,
+ a.carousel-control-next:after,
+a.carousel-control-next:after,
+a.carousel-control-prev:after {
+   font-size: 14px !important;
+}
+a.carousel-control-prev,a.carousel-control-next{
+  right: 35px !important;
+  left: unset !important;
+  opacity: 1 !important;
+  top: 210px !important;
+  z-index: 999;
+  background-color: #4B5D7B;
+  border-radius: 50%;
+  color: #fff !important;
+  background-size: 18px;
+  transform: rotateZ(90deg);
+  height: 40px;
+  width: 40px;
+}
+a.carousel-control-prev{
+   top: 150px !important;
+}
+.carousel {
+  width: 500px;
+  height: 420px;
+  padding-right: 95px;
+  margin-left: 0px;
+}
+.testi_txt {
+  padding: 40px;
+  color: #fff;
+  background-image: url(./assets/testiomonial-icon.svg);
+  background-repeat: no-repeat;
+  background-position: 42px 20px;
+  margin: 0px;
+}
+button.play-pause-btn {
+  position: absolute;
+  left: 43px;
+  top: 155px;
+  background: none !important;
+  border: none !important;
+}
+.carousel-indicators{
+  display: none;
+}

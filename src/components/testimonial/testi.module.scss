@@ -1,0 +1,41 @@
+.testimonial_sec {
+  background-image: url(../../assets/testimonial_bg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 12px;
+  h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+  }
+  .car_item {
+    border-radius: 9px;
+    background: #4b5d7b;
+    box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.1);
+
+    div {
+      text-align: right;
+      position: absolute;
+      top: 160px;
+      right: 30px;
+      color: #fff;
+
+      p {
+        font-size: 14px !important;
+      }
+      h4 {
+        font-size: 18px;
+        margin-bottom: 0;
+      }
+    }
+  }
+  video {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 9px 9px 0px 0px;
+    height: 215px;
+  }
+}

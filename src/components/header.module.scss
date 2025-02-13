@@ -1,0 +1,16 @@
+.top_bar {
+   background: #2B3540;
+   p {
+      font-weight: 500;
+   }
+}
+ .cta_link{
+   border-radius: 40px;
+   background: #4B5D7B;
+   padding: 10px 55px !important;
+   font-size: 16px;
+   font-weight: 700;
+   &:hover {
+      -webkit-text-stroke: unset !important;
+    }
+   }
